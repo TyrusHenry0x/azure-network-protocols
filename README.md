@@ -18,3 +18,17 @@ In this lab, I explored how to observe and manipulate network traffic between Az
 
 - Windows 10 (21H2)
 - Linux Ubuntu Server 20.04
+
+## High-Level Steps
+
+1. Create Resources
+2. Install Wireshark
+3. Observe Network Protocols and Configure NSGs
+
+---
+
+## Actions and Observations
+
+<details>
+<summary> 
+  
