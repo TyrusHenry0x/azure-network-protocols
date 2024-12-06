@@ -32,3 +32,27 @@ In this lab, I explored how to observe and manipulate network traffic between Az
 <details>
 <summary> 
   
+### Step 1 Install Resources
+  
+</summary>  
+  
+  I started by creating a Resource Group in Azure to house all necessary components. Using Azure's search feature, I selected `Create a Resource` and defined a resource group called `RG-Network-Activities`. I set the region closest to me to optimize performance and minimize cost.
+
+<p align="center">
+  <img width="955" src="https://github.com/user-attachments/assets/ead818e7-3629-441b-985f-31d85577e70a"/>
+</p>
+
+Next, I manually created a virtual network named `Lab-Vnet` to contain my virtual machines (VMs).
+
+<p align="center">
+  <img width="850" src="https://github.com/user-attachments/assets/1aa562ed-c763-4e20-bf97-f9c8c00e86be"/>
+</p>
+
+I created two VMs: one running Windows 10 Pro and the other running Linux Ubuntu Server. Both were placed in the same resource group and virtual network.
+
+<p align="center">
+  <img width="757" src="https://github.com/user-attachments/assets/f54db579-2423-49a5-a0b8-198c9dc25e7b"/>
+</p>
+</details>
+
+---
